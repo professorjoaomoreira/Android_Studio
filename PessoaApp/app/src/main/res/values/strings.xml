@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Pessoa App</string>
+
+    <string name="nome">Nome</string>
+    <string name="pessoa_fisica">Pessoa Física</string>
+    <string name="pessoa_juridica">Pessoa Jurídica</string>
+    <string name="cpf">CPF</string>
+    <string name="receber_news">Receber News</string>
+    <string name="email">E-mail</string>
+    <string name="cnpj">CNPJ</string>
+
+    <string name="pr">PR</string>
+    <string name="rs">RS</string>
+    <string name="sc">SC</string>
+
+    <string-array name="estados">
+        <item>@string/pr</item>
+        <item>@string/rs</item>
+        <item>@string/sc</item>
+    </string-array>
+
+    <string name="cascavel">Cascavel</string>
+    <string name="curitiba">Curitiba</string>
+    <string name="londrina">Londrina</string>
+
+    <string name="canoas">Canoas</string>
+    <string name="porto_alegre">Porto Alegre</string>
+    <string name="sao_leopoldo">São Leopoldo</string>
+
+    <string name="blumenau">Blumenau</string>
+    <string name="florianopolis">Florianópolis</string>
+    <string name="garopaba">Garopaba</string>
+
+    <string-array name="estados_pr">
+        <item>@string/cascavel</item>
+        <item>@string/curitiba</item>
+        <item>@string/londrina</item>
+    </string-array>
+
+    <string-array name="estados_rs">
+        <item>@string/canoas</item>
+        <item>@string/porto_alegre</item>
+        <item>@string/sao_leopoldo</item>
+    </string-array>
+
+    <string-array name="estados_sc">
+        <item>@string/blumenau</item>
+        <item>@string/florianopolis</item>
+        <item>@string/garopaba</item>
+    </string-array>
+</resources>

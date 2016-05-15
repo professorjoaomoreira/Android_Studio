@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Produtos App</string>
+    <string name="nova_categoria">Nova categoria</string>
+    <string name="descricao_da_categoria">Descrição da categoria</string>
+    <string name="inserir">Inserir</string>
+    <string name="detalhes_produto">Detalhes produto</string>
+    <string name="fechar">Fechar</string>
+    <string name="excluir">Excluir</string>
+    <string name="comprar">Comprar</string>
+    <string name="vender">Vender</string>
+</resources>
